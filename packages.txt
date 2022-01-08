@@ -1,2 +1,5 @@
 libsndfile1
 libsndfile-dev
+ffmpeg 
+libsm6 
+libxext6
