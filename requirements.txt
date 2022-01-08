@@ -1,0 +1,5 @@
+streamlit
+numpy-stl
+matplotlib
+librosa
+voxelfuse
